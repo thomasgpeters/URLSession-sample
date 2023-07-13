@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API Interface</key>
+	<string>{{592, 74}, {560, 746}}</string>
+	<key>API Interface.incl</key>
+	<string>{{587, 51}, {1124, 1038}}</string>
+	<key>EventHandlers.incl</key>
+	<string>{{321, 52}, {884, 1032}}</string>
+	<key>Globals.glbl</key>
+	<string>{{500, 66}, {560, 746}}</string>
+	<key>JSON Interface</key>
+	<string>{{186, 141}, {711, 772}}</string>
+	<key>JSON Interface.incl</key>
+	<string>{{215, 72}, {850, 812}}</string>
+	<key>Menus.incl</key>
+	<string>{{650, 292}, {560, 746}}</string>
+	<key>URLSession Sample 2.fbeproj</key>
+	<string>{{186, 652}, {250, 413}}</string>
+	<key>URLSession Sample.fbeproj</key>
+	<string>{{186, 652}, {250, 413}}</string>
+	<key>URLSession Sample.main</key>
+	<string>{{563, 103}, {560, 746}}</string>
+	<key>Windows.incl</key>
+	<string>{{477, 186}, {902, 831}}</string>
+</dict>
+</plist>
