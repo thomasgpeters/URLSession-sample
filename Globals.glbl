@@ -1,1 +1,1 @@
-_window = 1begin enum output 1_scrollView_textView_myButton_loginButton_textLabel_pushBtnend enumCFMutableStringRef myAuthTokenCFStringRef host = @"http://localhost:5656"CFDictionaryRef authDictionaryCFDataRef authData
+_window = 1begin enum output 1_scrollView_textView_myButton_loginButton_textLabel_pushBtn_toggleBtnOff_toggleBtnOnend enumCFMutableStringRef myAuthTokenCFStringRef host = @"http://localhost:5656"CFDictionaryRef authDictionaryCFDataRef authDataBoolean securityOn = NO

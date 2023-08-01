@@ -5,7 +5,7 @@
 	<key>API Interface</key>
 	<string>{{592, 74}, {560, 746}}</string>
 	<key>API Interface.incl</key>
-	<string>{{587, 51}, {1124, 1038}}</string>
+	<string>{{586, 51}, {1124, 1038}}</string>
 	<key>EventHandlers.incl</key>
 	<string>{{321, 52}, {884, 1032}}</string>
 	<key>Globals.glbl</key>
@@ -19,10 +19,10 @@
 	<key>URLSession Sample 2.fbeproj</key>
 	<string>{{186, 652}, {250, 413}}</string>
 	<key>URLSession Sample.fbeproj</key>
-	<string>{{186, 652}, {250, 413}}</string>
+	<string>{{185, 653}, {250, 413}}</string>
 	<key>URLSession Sample.main</key>
 	<string>{{563, 103}, {560, 746}}</string>
 	<key>Windows.incl</key>
-	<string>{{477, 186}, {902, 831}}</string>
+	<string>{{477, 187}, {902, 831}}</string>
 </dict>
 </plist>
