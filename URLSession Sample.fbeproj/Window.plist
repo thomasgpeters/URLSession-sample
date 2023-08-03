@@ -5,9 +5,9 @@
 	<key>API Interface</key>
 	<string>{{592, 74}, {560, 746}}</string>
 	<key>API Interface.incl</key>
-	<string>{{586, 51}, {1124, 1038}}</string>
+	<string>{{586, 49}, {1124, 1006}}</string>
 	<key>EventHandlers.incl</key>
-	<string>{{321, 52}, {884, 1032}}</string>
+	<string>{{439, 49}, {884, 1006}}</string>
 	<key>Globals.glbl</key>
 	<string>{{500, 66}, {560, 746}}</string>
 	<key>JSON Interface</key>
@@ -23,6 +23,6 @@
 	<key>URLSession Sample.main</key>
 	<string>{{563, 103}, {560, 746}}</string>
 	<key>Windows.incl</key>
-	<string>{{477, 187}, {902, 831}}</string>
+	<string>{{477, 186}, {902, 831}}</string>
 </dict>
 </plist>
