@@ -5,7 +5,7 @@
 	<key>Architecture</key>
 	<string>Intel</string>
 	<key>BaseSDK</key>
-	<string>13.1</string>
+	<string>14.0</string>
 	<key>CheckArrayBounds</key>
 	<integer>1</integer>
 	<key>ClearLogEachTime</key>
