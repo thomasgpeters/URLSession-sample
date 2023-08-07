@@ -1,0 +1,80 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXFileReference section */
+		D4B2DC392A80299000DEB5DE /* ObjectCreateView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ObjectCreateView.xib; sourceTree = "<group>"; };
+		D4B2DC3A2A80299000DEB5DE /* ProjectCreateView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ProjectCreateView.xib; sourceTree = "<group>"; };
+		D4B2DC3B2A80299000DEB5DE /* WelcomeView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = WelcomeView.xib; sourceTree = "<group>"; };
+		D4B2DC3C2A8029C400DEB5DE /* ProjectMainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ProjectMainWindow.xib; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		D4A21E922A7EEC5E00E65639 = {
+			isa = PBXGroup;
+			children = (
+				D4B2DC3C2A8029C400DEB5DE /* ProjectMainWindow.xib */,
+				D4B2DC3B2A80299000DEB5DE /* WelcomeView.xib */,
+				D4B2DC3A2A80299000DEB5DE /* ProjectCreateView.xib */,
+				D4B2DC392A80299000DEB5DE /* ObjectCreateView.xib */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		D4A21E932A7EEC5E00E65639 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1500;
+			};
+			buildConfigurationList = D4A21E962A7EEC5E00E65639 /* Build configuration list for PBXProject "API Code Generator" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = D4A21E922A7EEC5E00E65639;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		D4A21E972A7EEC5E00E65639 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		D4A21E982A7EEC5E00E65639 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		D4A21E962A7EEC5E00E65639 /* Build configuration list for PBXProject "API Code Generator" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D4A21E972A7EEC5E00E65639 /* Debug */,
+				D4A21E982A7EEC5E00E65639 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D4A21E932A7EEC5E00E65639 /* Project object */;
+}

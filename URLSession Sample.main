@@ -1,1 +1,1 @@
-#plist NSAppTransportSecurity @{NSAllowsArbitraryLoads:YES}HandleEvents
+#plist NSAppTransportSecurity @{NSAllowsArbitraryLoads:YES}fn BuildMenufn BuildProjectMainWindowfn BuildSubViewson appevent 	fn DoAppEvent	// assign application event handler functionon menu 			fn DoMenu			// assign menu event handler functionon dialog 		fn DoDialog		// assign window/control event handler functionHandleEvents

@@ -1,0 +1,1 @@
+// application events arrive herevoid local fn ValidateRequiredValues'~'1if ( fn StringIsEqual( fn TextString( _projectNameEdit ), @"" ) || fn StringIsEqual( fn TextString( _baseURLEdit ), @"" ) || fn StringIsEqual( fn TextString( _authSermentEdit ), @"" ) ):else:end ifend fn

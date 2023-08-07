@@ -7,24 +7,26 @@
 	<key>API Interface.incl</key>
 	<string>{{586, 52}, {1124, 1006}}</string>
 	<key>EventHandlers.incl</key>
-	<string>{{438, 50}, {884, 1006}}</string>
+	<string>{{521, 68}, {884, 1006}}</string>
 	<key>Globals.glbl</key>
-	<string>{{500, 66}, {560, 746}}</string>
+	<string>{{877, 72}, {686, 805}}</string>
 	<key>JSON Interface</key>
 	<string>{{186, 141}, {711, 772}}</string>
 	<key>JSON Interface.incl</key>
 	<string>{{215, 72}, {850, 812}}</string>
 	<key>JSONtoXIB.incl</key>
-	<string>{{708, 310}, {688, 738}}</string>
+	<string>{{740, 279}, {773, 749}}</string>
 	<key>Menus.incl</key>
 	<string>{{650, 292}, {560, 746}}</string>
 	<key>URLSession Sample 2.fbeproj</key>
 	<string>{{186, 652}, {250, 413}}</string>
 	<key>URLSession Sample.fbeproj</key>
-	<string>{{324, 622}, {271, 411}}</string>
+	<string>{{172, 370}, {283, 663}}</string>
 	<key>URLSession Sample.main</key>
 	<string>{{563, 103}, {560, 746}}</string>
+	<key>Validations.incl</key>
+	<string>{{502, 143}, {1280, 746}}</string>
 	<key>Windows.incl</key>
-	<string>{{595, 189}, {902, 831}}</string>
+	<string>{{402, 53}, {1347, 1041}}</string>
 </dict>
 </plist>
