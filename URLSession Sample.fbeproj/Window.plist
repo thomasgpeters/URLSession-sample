@@ -7,9 +7,9 @@
 	<key>API Interface.incl</key>
 	<string>{{586, 52}, {1124, 1006}}</string>
 	<key>API_XIB_Application.incl</key>
-	<string>{{598, 86}, {1002, 906}}</string>
+	<string>{{570, 112}, {1002, 906}}</string>
 	<key>EventHandlers.incl</key>
-	<string>{{759, 53}, {920, 1006}}</string>
+	<string>{{613, 53}, {1066, 1006}}</string>
 	<key>Globals.glbl</key>
 	<string>{{1282, 83}, {470, 926}}</string>
 	<key>JSON Interface</key>
